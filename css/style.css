@@ -1,0 +1,76 @@
+.Conteudo-Central {
+    width: 60%; 
+    margin: 50px auto; 
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    justify-content: center; /* centraliza na horizontal */
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    margin-top: 30px;
+    flex-wrap: wrap; /* adapta pra telas menores */
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.center { text-align: center;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+    justify-content: center; /* centraliza na horizontal */
+    align-items: center;
+    text-align: center;
+}
+
+.equipe {
+        padding: 50px 20px;
+        text-align: center;
+        background-color: #f0f0f0;}
+ .bloco-time {
+            background-color: white;
+            padding: 20px;
+            width: 250px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+ }
+
+ 
+.bloco-time:hover {
+    transform: scale(1.05);} /* efeito ao passar o mouse*/
+    h2 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    
+    h3 {
+        color: #333;
+        margin-bottom: 10px;}
+
+        footer  {
+             color: white;
+            text-align: center;
+            padding: 20px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            font-size: 14px;
+            justify-content: center; /* centraliza na horizontal */
+            align-items: center;
+            text-align: center;
+          /* rodape fixo no final da pag*/}
+
+ .titulo-sublinhado {
+                text-decoration: underline;
+            } /* texto sublinado*/            
