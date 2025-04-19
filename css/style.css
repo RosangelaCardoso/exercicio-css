@@ -36,8 +36,9 @@ body {
 .equipe {
         padding: 50px 20px;
         text-align: center;
-        background-color: #f0f0f0;}
- .bloco-time {
+        background-color: #f0f0f0;
+    }
+.bloco-time {
             background-color: white;
             padding: 20px;
             width: 250px;
@@ -61,19 +62,19 @@ body {
     margin-bottom: 10px;
 }
 
-        footer  {
-             color: white;
-            text-align: center;
-            padding: 20px 0;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-            font-size: 14px;
-            justify-content: center; /* centraliza na horizontal */
-            align-items: center;
-            text-align: center;
+ footer  {
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+     bottom: 0;
+    width: 100%;
+    font-size: 14px;
+     justify-content: center; /* centraliza na horizontal */
+     align-items: center;
+     text-align: center;
           /* rodape fixo no final da pag*/}
 
  .titulo-sublinhado {
-                text-decoration: underline;
+    text-decoration: underline;
             } /* texto sublinado*/            
